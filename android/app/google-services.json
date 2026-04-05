@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "785270247289",
+    "project_id": "mopro-d865d",
+    "storage_bucket": "mopro-d865d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785270247289:android:833969d1d4fefa4713e9a8",
+        "android_client_info": {
+          "package_name": "com.example.mopro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785270247289-8tekkns0s560p6g5tv2a3bd2blig37ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEzfSz2cgG0OkfiuLskmEQJdKFAmkxfW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785270247289-8tekkns0s560p6g5tv2a3bd2blig37ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785270247289-7k4pcltk5hqfi2dppv20dkscg29pma7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mopro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785270247289:android:4a0e874aab16077513e9a8",
+        "android_client_info": {
+          "package_name": "com.example.reporting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785270247289-8tekkns0s560p6g5tv2a3bd2blig37ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEzfSz2cgG0OkfiuLskmEQJdKFAmkxfW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785270247289-8tekkns0s560p6g5tv2a3bd2blig37ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785270247289-7k4pcltk5hqfi2dppv20dkscg29pma7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mopro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785270247289:android:3029dfef414e694313e9a8",
+        "android_client_info": {
+          "package_name": "othman.MMO.mopro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785270247289-8tekkns0s560p6g5tv2a3bd2blig37ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEzfSz2cgG0OkfiuLskmEQJdKFAmkxfW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785270247289-8tekkns0s560p6g5tv2a3bd2blig37ea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "785270247289-7k4pcltk5hqfi2dppv20dkscg29pma7t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mopro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
